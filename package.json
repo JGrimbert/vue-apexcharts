@@ -1,7 +1,7 @@
 {
   "name": "vue-apexcharts",
   "version": "1.6.2",
-  "description": "Vue.js wrapper for ApexCharts",
+  "description": "Forked from Vue.js wrapper for ApexCharts",
   "main": "dist/vue-apexcharts.js",
   "scripts": {
     "bundle": "rollup -c",
