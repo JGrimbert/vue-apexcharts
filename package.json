@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "apexcharts": "https://github.com/JGrimbert/apexcharts.js.git"
+    "apexcharts": "github:JGrimbert/apexcharts.js"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
